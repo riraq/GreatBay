@@ -1,0 +1,24 @@
+{
+  "name": "GreatBay",
+  "version": "1.0.0",
+  "description": "bidding and posting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riraq/GreatBay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riraq/GreatBay/issues"
+  },
+  "homepage": "https://github.com/riraq/GreatBay#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
